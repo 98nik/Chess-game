@@ -1,0 +1,2 @@
+socket.io-> we have to execute socket in backend and on each connection frontend, so that our connection will be right for realtime.
+
